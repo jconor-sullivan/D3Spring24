@@ -1,6 +1,6 @@
 # D3Spring24
 ## About me
-This is my fourth year as a part-time, DH student at the grad center. When I started the program, I was also getting my masters in educational psychology at Hunter College, which I completed in Fall '22. Professionally, I manage a team of UX and documentation writers at a large tech company. Starting this fall, I will be transferring most of my DH credits from the grad center into the SUNY BUffalo PhD in information science. 
+This is my fourth year as a part-time DH student at the grad center. When I started the program, I was simultaneously earning my masters in educational psychology at Hunter College, which I completed in Fall '22. Professionally, I manage a team of UX and documentation writers at a large tech company. Starting this fall, I will be transferring most of my DH credits from the grad center into the SUNY BUffalo PhD in information science. 
 
 My academic and professional interests are centered around the usability of digital interfaces in online assessment settings. I am interested in learning D3 to improve the visualizations I provide in the documentation space. 
 
