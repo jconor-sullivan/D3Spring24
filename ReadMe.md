@@ -1,0 +1,2 @@
+# Week 3 Homework submission
+My HW for week three can be located on this branch. I did have some trouble publishing my code at first, which I then requested some troubleshooting help from a GPT in my browser. It identified a typo in the worksheet on the initial use of "script" being rendered as "scrip." I'm also running into issues with the HTML launching to my browser from VSCode. But I was able to get it to show the scatterplot by loading the file manually from the browser. 
